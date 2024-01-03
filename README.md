@@ -1,4 +1,5 @@
 # Eksamen i Webutvikling
+Karakter resultat av prosjektet: A
 
 Repository for oppgave 1 og 2. Arbeidet har funnet sted fra 06.11 til 04.12, og har blitt utført av gruppe 5.
 
